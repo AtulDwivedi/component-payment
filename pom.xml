@@ -8,11 +8,11 @@
 		<version>2.1.3.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.quickcart.component</groupId>
-	<artifactId>payment</artifactId>
+	<groupId>com.routinecart</groupId>
+	<artifactId>component-payment</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>payment</name>
-	<description>Demo project for Spring Boot</description>
+	<name>component-payment</name>
+	<description>Component Payment of RoutineCart application</description>
 
 	<properties>
 		<java.version>1.8</java.version>

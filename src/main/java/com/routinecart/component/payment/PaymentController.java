@@ -1,4 +1,4 @@
-package com.quickcart.component.payment;
+package com.routinecart.component.payment;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;
