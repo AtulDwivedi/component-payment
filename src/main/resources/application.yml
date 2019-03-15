@@ -1,5 +1,2 @@
 server:
   port: ${PORT:${SERVER_PORT:0}}
-
-payment:
-  modes: Credit Card, Debit Card, Net Banking, Cash on Delivery
